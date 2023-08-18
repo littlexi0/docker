@@ -12,7 +12,7 @@ sudo apt install docker.io
 关闭docker  
 `systemctl stop docker`  
 查看docker状态  
-`systemctl status docker`
-开机自启动docker
+`systemctl status docker`  
+开机自启动docker  
 `systemctl enable docker`
 
